@@ -1,0 +1,36 @@
+.jumbotron {
+    margin: 0px auto;
+    padding: 70px 30px;
+    background: #ABBAEA;   
+    color: black; }
+.container-1{
+    display: grid;
+    padding: 25px 50px 75px;
+    grid-template-columns: 700px 700px; 
+    grid-template-rows: 700px;
+    grid-column-gap: 5px; 
+}
+.container-2{
+    display: grid;
+    padding: 50px 100px 150px;
+    grid-template-columns: 250px 250px 250px; 
+    grid-template-rows: 300px;
+    grid-column-gap: 70px;
+}
+.item {
+    background: rgb(112, 159, 245); 
+    width: 1150px;
+    height: 300px;
+    margin: auto;
+
+    }
+.row1{
+    background: rgb(82, 130, 219); 
+    width: 1130px;
+    height: 290px;
+    margin: auto;
+}
+.btn{
+    background-color: rgb(41, 41, 221);
+    color: white;
+}
